@@ -1,0 +1,2 @@
+# PertamaNuQBo
+Repository Pertama NuQBo
